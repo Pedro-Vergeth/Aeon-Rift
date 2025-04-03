@@ -1,0 +1,53 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Visual Studio / Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# VS Code Workspace
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Crash Reports
+sysinfo.txt
+
+# Auto-generated files
+*.apk
+*.aab
+*.unitypackage
+
+# Collaborate / Plastic SCM
+.collabignore
+.PlasticSCM/
