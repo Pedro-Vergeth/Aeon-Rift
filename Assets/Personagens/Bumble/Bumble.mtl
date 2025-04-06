@@ -1,0 +1,86 @@
+# Exported from Fuse 1.3.0
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Moustache_diffuse.png
+map_Ks Bumble_Moustache_specular.png
+bump Bumble_Moustache_normal.png
+map_Ns Bumble_Moustache_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Hair_diffuse.png
+map_Ks Bumble_Hair_specular.png
+bump Bumble_Hair_normal.png
+map_Ns Bumble_Hair_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Shoes_diffuse.png
+map_Ks Bumble_Shoes_specular.png
+bump Bumble_Shoes_normal.png
+map_Ns Bumble_Shoes_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Body_diffuse.png
+map_Ks Bumble_Body_specular.png
+bump Bumble_Body_normal.png
+map_Ns Bumble_Body_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Top_diffuse.png
+map_Ks Bumble_Top_specular.png
+bump Bumble_Top_normal.png
+map_Ns Bumble_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Bottom_diffuse.png
+map_Ks Bumble_Bottom_specular.png
+bump Bumble_Bottom_normal.png
+map_Ns Bumble_Bottom_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Bumble_Glove_diffuse.png
+map_Ks Bumble_Glove_specular.png
+bump Bumble_Glove_normal.png
+map_Ns Bumble_Glove_gloss.png
+
